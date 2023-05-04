@@ -14,6 +14,8 @@ We appreciate any help we can get. However, follow these simple rules, so we don
 - **When making pull requests, check what you're about to submit.** It's better to take time with translations and fixes than to rush and end up with a terrible result, which could include nasty bugs.
 - **Hate, spam and other obstructive messages are not tolerated.** This can cause your issue/pull request to get rejected. Repeated offenses will cause in you losing the ability to contribute to this modpack.
 
+You will get credited when your contribution was successful.
+
 <!--
 
 **Here are some ideas to get you started:**
